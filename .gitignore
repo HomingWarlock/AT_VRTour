@@ -72,3 +72,5 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+UnityFile/AT_UnityFile_VrTour/Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Interactable Velocity Tracked Wedge.prefab.meta
